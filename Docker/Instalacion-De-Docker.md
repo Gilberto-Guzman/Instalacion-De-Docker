@@ -57,3 +57,7 @@
 - docker pull: Descarga una imagen de Docker desde un repositorio de imágenes de Docker.
 - docker push: Sube una imagen de Docker al registro de imágenes de Docker.
 - docker exec: Ejecuta un comando dentro de un contenedor de Docker en ejecución.
+
+
+### Comandos adicionales
+- sudo docker ps -a
